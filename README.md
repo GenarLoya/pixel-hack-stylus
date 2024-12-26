@@ -1,5 +1,7 @@
 # Basic App for stylus input
 
+![alt text](docs/images/preview.png)
+
 This is a basic app that uses the stylus input to draw on a canvas like a Pixel Art.
 
 ## Features
